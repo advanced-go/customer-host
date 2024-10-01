@@ -2,9 +2,17 @@ github.com/advanced-go/customer v0.0.0-20240907192411-172cf9392f52 h1:9RQuqBOL8F
 github.com/advanced-go/customer v0.0.0-20240907192411-172cf9392f52/go.mod h1:w//bhlv6g219N9uklF6QXqG5gaSEOHfXBkexyX8eOWw=
 github.com/advanced-go/customer v0.0.0-20240911183033-032feb48a7b1 h1:vordwclgHiIS7gzSGxCr0jg/Mk2pN3pW/d1qVnL5jIw=
 github.com/advanced-go/customer v0.0.0-20240911183033-032feb48a7b1/go.mod h1:tg+k8OiJ/+gaC7admKDqLyc0eE8UJpieiUXQpdafkF8=
+github.com/advanced-go/customer v0.0.0-20240927164412-4da72e316602 h1:B226lfRRLMZxeXG9juVs0rpUJWn2831K+hgElO6SFpk=
+github.com/advanced-go/customer v0.0.0-20240927164412-4da72e316602/go.mod h1:VS6QlpDmjwmUVl/AHZBHdcRqLj15m6HfCZK5g8kMBWA=
+github.com/advanced-go/customer v0.0.0-20241001191252-820b41545c53 h1:qauZARWbOaEZ8vB8e+aAYOj00tLo237Q+2b/w9SFPK8=
+github.com/advanced-go/customer v0.0.0-20241001191252-820b41545c53/go.mod h1:eFVvukB5EFApViiQzCnK+ekcRZbpWOj+hZ2ReZUhhwM=
 github.com/advanced-go/stdlib v0.0.0-20240907180029-fecfe93222e9 h1:fUu+vE+GSqGyofDEyi8JsSrK0psSnIU/7JV6eMXiHAk=
 github.com/advanced-go/stdlib v0.0.0-20240907180029-fecfe93222e9/go.mod h1:bvuWc7Tx57LArgrEvbPxKW4hvIYGS3pw7iG4P6xofoQ=
 github.com/advanced-go/stdlib v0.0.0-20240911185931-d38a4db9f13b h1:XVCt2l75I/q9irP0H82w19Sg38vYrD9tBs5afR3TTQk=
 github.com/advanced-go/stdlib v0.0.0-20240911185931-d38a4db9f13b/go.mod h1:bvuWc7Tx57LArgrEvbPxKW4hvIYGS3pw7iG4P6xofoQ=
+github.com/advanced-go/stdlib v0.0.0-20241001103331-30442f0e3dbd h1:ZAO5cl/oP5WuZvpAS6VNEqAZu5XKGfnKxLYuJhC2IqA=
+github.com/advanced-go/stdlib v0.0.0-20241001103331-30442f0e3dbd/go.mod h1:bvuWc7Tx57LArgrEvbPxKW4hvIYGS3pw7iG4P6xofoQ=
+github.com/advanced-go/stdlib v0.0.0-20241001184733-c8f78a007fe1 h1:kNrc8b9msWVt8r9neitFMvplzHlfosgV+zmc+cVIiUw=
+github.com/advanced-go/stdlib v0.0.0-20241001184733-c8f78a007fe1/go.mod h1:bvuWc7Tx57LArgrEvbPxKW4hvIYGS3pw7iG4P6xofoQ=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
